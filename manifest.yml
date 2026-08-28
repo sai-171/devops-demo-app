@@ -1,4 +1,4 @@
-capplications:
+applications:
   - name: devops-demo-app
     path: app/target/devops-demo-app-1.0.0.jar
     memory: 1G
